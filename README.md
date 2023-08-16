@@ -2,6 +2,8 @@
 
 Neste desafio de projeto foi criado um Cluster Swarm local, utilizando máquinas virtuais, além, de aplicar os conhecimentos em Vagrant. Também foi feita as implementações manualmente, melhorando o desempenho dos desenvolvedores.
 
+<img src='https://www.pngfind.com/pngs/m/385-3851076_set-up-docker-swarm-cluster-using-consul-dzone.png' alt='logotipo Docker Swarm'>
+
 PASSO A PASSO:
 
 Criado Vagrantfile com as definições de 4 máquinas virtuais. Sendo uma máquina com o nome de master e as outras com os nomes de node01, node02 e node03; 
